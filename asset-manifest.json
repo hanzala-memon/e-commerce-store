@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/e-commerce-store/static/css/main.0f4a2167.css",
+    "main.js": "/e-commerce-store/static/js/main.da6de2bd.js",
+    "static/media/banner-img.png": "/e-commerce-store/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/e-commerce-store/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/earbuds-prod-1.webp": "/e-commerce-store/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
+    "index.html": "/e-commerce-store/index.html",
+    "main.0f4a2167.css.map": "/e-commerce-store/static/css/main.0f4a2167.css.map",
+    "main.da6de2bd.js.map": "/e-commerce-store/static/js/main.da6de2bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f4a2167.css",
+    "static/js/main.da6de2bd.js"
+  ]
+}
